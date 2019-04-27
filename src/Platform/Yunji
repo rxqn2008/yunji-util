@@ -1,0 +1,13 @@
+<?php
+namespace Platform\Yunji;
+
+class Yunji
+{
+    public function test()
+    {
+        echo "test";
+    }
+}
+
+
+?>

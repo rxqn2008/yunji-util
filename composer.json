@@ -1,0 +1,22 @@
+{
+    "name": "rxqn2008/yunji-util",
+    "description": "api util class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rxqn2008",
+            "email": "918194107@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+          "Platform\\Yunji\\": "src/Platform/Yunji"
+        }
+    }
+}
